@@ -1,0 +1,126 @@
+.first-container {
+    background-color: #AFD3E2;
+    font-family: "Times New Roman",sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+
+.second-container {
+    background-color: #F6F1F1;
+    font-family: "Times New Roman",sans-serif;
+}
+
+.second-container img {
+    border-radius: 50%;
+    padding-bottom: 10px;
+}
+
+.second-container .greeting {
+    color: #146C94;
+    padding-bottom: 10px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.second-container .about-me {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.third-container {
+    background-color: #F6F1F1;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.third-container h2 {
+    color: #146C94;
+    padding: 20px;
+}
+
+.fourth-container {
+    background-color: #F6F1F1;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.fourth-container h2 {
+    color: #146C94;
+    padding-top: 60px;
+}
+
+.fourth-container p {
+    padding-top: 20px;
+}
+
+.fifth-container {
+    background-color: #F6F1F1 ;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.get-in-touch {
+    color: #146C94;
+}
+
+.fifth-container p {
+    padding-top: 20px;
+}
+
+ .fifth-container .btn {
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border: #11cdd4 solid;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 20px;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+}
+
+.footer-container {
+    background-color: #AFD3E2;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+
+.nav-item {
+    color: #11cdd4 ;
+    font-family: "Times New Roman", sans-serif;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
